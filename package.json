@@ -1,5 +1,5 @@
 {
-  "name": "bday",
+  "name": "ExesAndOhs",
   "version": "1.0.0",
   "description": "",
   "main": "src/javascripts/main.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KeithRWalker/shotz.git"
+    "url": "git+https://github.com/KeithRWalker/ExesAndOhs.git"
   },
   "keywords": [],
   "author": "Keith Walker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KeithRWalker/shotz/issues"
+    "url": "https://github.com/KeithRWalker/ExesAndOhs/issues"
   },
-  "homepage": "https://github.com/KeithRWalker/shotz#readme",
+  "homepage": "https://github.com/KeithRWalker/ExesAndOhs#readme",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
